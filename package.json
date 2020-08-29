@@ -8,8 +8,35 @@
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "availity-reactstrap-validation": "^2.6.1",
+    "bootstrap": "^4.5.0",
     "next": "9.5.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react": "^16.13.1",
+    "react-animated-css": "^1.2.1",
+    "react-background-slider": "^2.0.0",
+    "react-countup": "^4.3.3",
+    "react-dom": "^16.13.1",
+    "react-fade-in": "^1.1.0",
+    "react-flex-carousel": "^1.1.0",
+    "react-image-lightbox": "^5.1.1",
+    "react-modal-video": "^1.2.3",
+    "react-owl-carousel": "^2.3.1",
+    "react-parallax": "^3.0.3",
+    "react-particles-js": "^2.7.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-slick": "^0.26.1",
+    "react-spring": "^8.0.27",
+    "react-sticky-header": "^0.2.0",
+    "react-text-rotator": "^0.1.1",
+    "react-tsparticles": "^1.17.10",
+    "react-typist": "^2.0.5",
+    "react-youtube": "^7.11.2",
+    "react-youtube-background": "^1.0.0",
+    "reactstrap": "^8.4.1",
+    "sass": "^1.26.10",
+    "slick-carousel": "^1.8.1",
+    "typewriter-effect": "^2.13.1"
   }
 }
